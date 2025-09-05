@@ -7,15 +7,15 @@ The app shows one multiple-choice question and lets the user pick an answer. Cor
 
 Features
 
-•	One flashcard question: “Who is the 44th President of the United States?”
+- [x]	One flashcard question: “Who is the 44th President of the United States?”
 
-•	One multiple-choice question with 3 answers: Bill Clinton, George Bush, Barack Obama
+- [x]	One multiple-choice question with 3 answers: Bill Clinton, George Bush, Barack Obama
 
-•	Correct answer turns green
+- [x]	Correct answer turns green
 
-•	Wrong answer turns red, while the correct answer is highlighted green
+- [x]	Wrong answer turns red, while the correct answer is highlighted green
 
-•	Once an answer is picked, all choices are disabled
+- [x]	Once an answer is picked, all choices are disabled
 
 
 
